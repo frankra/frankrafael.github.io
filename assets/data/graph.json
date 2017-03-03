@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {"id": "Frank", "color": "#37bbb5"},
+    {"id": "Programming Languages", "color": "#37bbb5"},
+    {"id": "Javascript", "color": "#37bbb5"},
+    {"id": "PHP", "color": "#37bbb5"},
+    {"id": "Java", "color": "#37bbb5"}
+  ],
+  "links": [
+    {"source": "Frank", "target": "Programming Languages", "value": 1},
+    {"source": "Programming Languages", "target": "Javascript", "value": 1},
+    {"source": "Programming Languages", "target": "Java", "value": 1},
+    {"source": "Programming Languages", "target": "PHP", "value": 1}
+  ]
+}
